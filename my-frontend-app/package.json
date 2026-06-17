@@ -130,7 +130,8 @@
     "zod-validation-error": "^4.0.2"
   },
   "scripts": {
-    "dev": "vite",
+    "start": "vite --open",
+    "dev": "vite --open",
     "build": "vite build",
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
