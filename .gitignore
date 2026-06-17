@@ -1,0 +1,4 @@
+node_modules/
+dist/
+my-frontend-app/node_modules/
+my-frontend-app/dist/
